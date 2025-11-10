@@ -7,6 +7,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=WeraMiyMay&label=Profile%20views&color=5d5cde&style=flat" alt="profile views" />
 
+---
+
 ### 🚀 About Me
 
 <div align="center">
@@ -19,6 +21,8 @@
 
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Web Development  
@@ -27,13 +31,11 @@
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
----
 
 ### 🖥️ Desktop Development  
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
----
 
 ### 📊 Data & Analytics  
 <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -42,6 +44,7 @@
 
 </div>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -67,6 +70,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&theme=tokyo-night&bg_color=1a1b27&color=5d5cde&line=5d5cde&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
+---
 
 ## 📫 Connect With Me
 
@@ -78,6 +82,7 @@
 
 </div>
 
+---
 
 ## 💡 Random Quote for Inspiration
 
@@ -87,9 +92,9 @@
 
 </div>
 
-
 <div align="center">
-
+---
+  
 ### 🌟 Don’t forget to star my repositories if you like them! 🌟
 
 **"Code is poetry in motion."** ✨
