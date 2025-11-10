@@ -57,12 +57,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=tokyonight&border=5D5CDE" alt="GitHub Streak"/>
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
+
+---
 
 ## 📈 Activity Graph
 
@@ -93,7 +96,7 @@
 </div>
 
 <div align="center">
----
+
   
 ### 🌟 Don’t forget to star my repositories if you like them! 🌟
 
