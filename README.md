@@ -1,17 +1,14 @@
-
 <div align="center">
 
-# 👋 Hi, I'm WeraMiyMay!
+# ⚡ <span style="color:#7B68EE; text-shadow: 0 0 10px #5D5CDE, 0 0 20px #5D5CDE;">Hi, I'm Vera!</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D5CDE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Desktop+Applications+Engineer;Big+Data+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B80F9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Desktop+Applications+Engineer;Big+Data+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=WeraMiyMay&label=Profile%20views&color=5d5cde&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=WeraMiyMay&label=Profile%20views&color=8B80F9&style=flat-square" alt="Profile views" />
 
 ---
 
-### 🚀 About Me
-
-<div align="center">
+## 🚀 <span style="color:#8B80F9">About Me</span>
 
 🧠 **Name:** WeraMiyMay  
 💻 **Role:** Full Stack Developer  
@@ -19,93 +16,97 @@
 🎯 **Interests:** Web Development • Desktop Applications • Big Data  
 ☕ **Fun fact:** Coffee + Code = Magic 💻✨  
 
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ <span style="color:#8B80F9">Tech Stack</span>
 
 ### 🌐 Web Development  
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-6E6EE6?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### 🖥️ Desktop Development  
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 ### 📊 Data & Analytics  
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeraMiyMay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=5D5CDE"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeraMiyMay&layout=compact&langs_count=8&theme=tokyonight&border_color=5D5CDE"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=tokyonight&border=5D5CDE" alt="GitHub Streak"/>
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0769AD?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 <span style="color:#8B80F9">GitHub Stats</span>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WeraMiyMay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=8B80F9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeraMiyMay&layout=compact&langs_count=8&theme=tokyonight&border_color=8B80F9"/>
+</p>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&theme=tokyo-night&bg_color=1a1b27&color=5d5cde&line=5d5cde&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=tokyonight&border=8B80F9" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 <span style="color:#8B80F9">GitHub Trophies</span>
 
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/vylaxa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:januaryanastasia4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/раковская-вера-095380378)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 💡 Random Quote for Inspiration
+## 📈 <span style="color:#8B80F9">Activity Graph</span>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&theme=tokyo-night&bg_color=1a1b27&color=8B80F9&line=8B80F9&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight\&border=true)
+---
+
+## 📫 <span style="color:#8B80F9">Connect With Me</span>
+
+<p align="center">
+  <a href="https://t.me/vylaxa">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:januaryanastasia4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/раковская-вера-095380378">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 <span style="color:#8B80F9">Random Quote for Inspiration</span>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote" />
+</p>
+
+---
+
+## ✨ <span style="color:#8B80F9">Stay Awesome!</span>
+
+**"Code is poetry in motion."**  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-8B4513?style=for-the-badge"/>
+</p>
 
 </div>
-
-<div align="center">
-
-  
-### 🌟 Don’t forget to star my repositories if you like them! 🌟
-
-**"Code is poetry in motion."** ✨
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
-![Coffee Powered](https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-brown?style=for-the-badge)
-
-</div>
-
