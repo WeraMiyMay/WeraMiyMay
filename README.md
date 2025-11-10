@@ -9,17 +9,16 @@
 
 ### 🚀 About Me
 
-javascript
-const developer = {
-    name: "WeraMiyMay",
-    role: "Full Stack Developer",
-    location: "🌍 Minsk",
-    currently: "Learning modern technologies",
-    interests: ["Web Development", "Desktop Applications", "Big Data"],
-    funFact: "Coffee + Code = Magic ☕💻"
-};
-</div>
+<div align="center">
 
+🧠 **Name:** WeraMiyMay  
+💻 **Role:** Full Stack Developer  
+📍 **Location:** 🌍 Minsk  
+📚 **Currently learning:** Modern technologies  
+🎯 **Interests:** Web Development • Desktop Applications • Big Data  
+☕ **Fun fact:** Coffee + Code = Magic 💻✨  
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -66,21 +65,12 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
-
-
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&theme=tokyo-night&bg_color=1a1b27&color=5d5cde&line=5d5cde&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-
-## 🎯 2025 Goals
-
-* 🌱 Learning **QT**
-* 💼 Expanding my personal portfolio
-* 🤝 Open to collaborations on **Open Source** projects
-* 📚 Deepening knowledge in **Machine Learning** and **Data Science**
 
 ## 📫 Connect With Me
 
