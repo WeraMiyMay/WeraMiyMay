@@ -73,14 +73,13 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WeraMiyMay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeraMiyMay&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 
-<br><br>
+<!-- <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/> -->
 
 </div>
 
-<br>
-
+<!-- <br>
 
 <div align="center">
 
@@ -90,7 +89,7 @@
 
 </div>
 
-<br>
+<br> -->
 
 
 <div align="center">
