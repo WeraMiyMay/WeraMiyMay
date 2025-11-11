@@ -1,112 +1,134 @@
 <div align="center">
 
-# ⚡ <span style="color:#7B68EE; text-shadow: 0 0 10px #5D5CDE, 0 0 20px #5D5CDE;">Hi, I'm Vera!</span>
+<!-- 🌌 Animated Background -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="animated background"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B80F9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Desktop+Applications+Engineer;Big+Data+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+# 🌙 <span style="color:#A993FF; text-shadow:0 0 18px #A993FF;">Hi, I'm WeraMiyMay!</span> 👋  
+**Full Stack Developer |  Data Enthusiast**
 
-<img src="https://komarev.com/ghpvc/?username=WeraMiyMay&label=Profile%20views&color=8B80F9&style=flat-square" alt="Profile views" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=A993FF&center=true&vCenter=true&width=600&lines=Creating+elegant+and+useful+software;Exploring+data+and+building+experiences;Always+learning%2C+always+evolving)](https://git.io/typing-svg)
 
----
+<img src="https://komarev.com/ghpvc/?username=WeraMiyMay&label=Profile%20views&color=A993FF&style=flat-square" alt="Profile Views" />
 
-## 🚀 <span style="color:#8B80F9">About Me</span>
+</div>
 
-🧠 **Name:** WeraMiyMay  
-💻 **Role:** Full Stack Developer  
-📍 **Location:** 🌍 Minsk  
-🎯 **Interests:** Web Development • Desktop Applications • Big Data  
-☕ **Fun fact:** Coffee + Code = Magic 💻✨  
+<br>
 
----
 
-## 🛠️ <span style="color:#8B80F9">Tech Stack</span>
+<div align="center">
 
-### 🌐 Web Development  
-<p align="center">
-<img src="https://img.shields.io/badge/PHP-6E6EE6?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+## ✨ About Me  
 
-### 🖥️ Desktop Development  
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+<div style="max-width: 600px; margin: auto; font-size: 16px; line-height: 1.6; text-align: justify;">
 
-### 📊 Data & Analytics  
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-0769AD?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+💻 I build **clean, efficient apps** that look great and work fast.  
+🌙 Passionate about **creative coding** and meaningful design.  
+🚀 Always exploring new ideas and improving my craft.
 
----
+</div>
 
-## 📊 <span style="color:#8B80F9">GitHub Stats</span>
+</div>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WeraMiyMay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=8B80F9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeraMiyMay&layout=compact&langs_count=8&theme=tokyonight&border_color=8B80F9"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=tokyonight&border=8B80F9" alt="GitHub Streak"/>
-</p>
 
----
+<div align="center">
 
-## 🏆 <span style="color:#8B80F9">GitHub Trophies</span>
+## ⚙️ Tech Stack  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies"/>
-</p>
+<table>
+<tr>
 
----
+<td align="center" width="33%">
+<h4>💻 Desktop</h4>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
+</td>
 
-## 📈 <span style="color:#8B80F9">Activity Graph</span>
+<td align="center" width="33%">
+<h4>🌐 Web</h4>
+<img src="https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white"/>
+</td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&theme=tokyo-night&bg_color=1a1b27&color=8B80F9&line=8B80F9&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
+<td align="center" width="33%">
+<h4>📊 Data</h4>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logo=matplotlib&logoColor=white"/>  
+</td>
+</tr>
+</table>
 
----
+</div>
 
-## 📫 <span style="color:#8B80F9">Connect With Me</span>
+<br>
 
-<p align="center">
-  <a href="https://t.me/vylaxa">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:januaryanastasia4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/раковская-вера-095380378">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
----
+<div align="center">
 
-## 💡 <span style="color:#8B80F9">Random Quote for Inspiration</span>
+## 📊 GitHub Insights  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote" />
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WeraMiyMay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeraMiyMay&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 
----
+<br><br>
 
-## ✨ <span style="color:#8B80F9">Stay Awesome!</span>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeraMiyMay&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 
-**"Code is poetry in motion."**  
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-8B4513?style=for-the-badge"/>
-</p>
+
+<div align="center">
+
+## 🏆 Achievements  
+
+<img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=onestar&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+## 🌌 Activity  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&bg_color=0d1117&color=A993FF&line=A993FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+## 🌙 Final Touch  
+
+✨ “Code is poetry in motion.” ✨  
+⭐ *If you enjoy my work — consider starring my repositories!* ⭐  
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+<br><br>
+
+<div align="center">
+
+## 🤝 Connect  
+
+<a href="https://t.me/vylaxa">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:januaryanastasia4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF5555?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/раковская-вера-095380378">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 </div>
