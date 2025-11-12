@@ -3,7 +3,7 @@
 <!-- 🌌 Animated Background -->
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="animated background"/>
 
-# 🌙 <span style="color:#A993FF; text-shadow:0 0 18px #A993FF;">Hi, I'm WeraMiyMay!</span> 👋  
+# 🌙 <span style="color:#A993FF; text-shadow:0 0 18px #A993FF;">Hi, I'm Vera!</span> 👋  
 **Full Stack Developer |  Data Enthusiast**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=A993FF&center=true&vCenter=true&width=600&lines=Creating+elegant+and+useful+software;Exploring+data+and+building+experiences;Always+learning%2C+always+evolving)](https://git.io/typing-svg)
@@ -79,7 +79,7 @@
 
 </div>
 
-<!-- <br>
+ <br>
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 </div>
 
-<br> -->
+<br> 
 
 
 <div align="center">
