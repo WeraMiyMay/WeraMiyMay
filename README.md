@@ -66,7 +66,7 @@
 <br>
 
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📊 GitHub Insights  
 
@@ -79,7 +79,7 @@
 
 </div>
 
- <br>
+ <br> 
 
 <div align="center">
 
