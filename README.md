@@ -34,13 +34,13 @@
 
 <div align="center">
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 <table>
 <tr>
 
 <td align="center" width="33%">
-<h4>💻 Desktop</h4>
+<h4> Desktop</h4>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 </td>
 
@@ -53,7 +53,7 @@
 </td>
 
 <td align="center" width="33%">
-<h4>📊 Data</h4>
+<h4>Data</h4>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logo=matplotlib&logoColor=white"/>  
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-## 🏆 Achievements  
+##  Achievements  
 
 <img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=onestar&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies"/>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-## 🌌 Activity  
+##  Activity  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeraMiyMay&bg_color=0d1117&color=A993FF&line=A993FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
