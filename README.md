@@ -105,7 +105,7 @@
 
 <div align="center">
 
-## 🌙 Final Touch  
+##  Final Touch  
 
 ✨ “Code is poetry in motion.” ✨  
 ⭐ *If you enjoy my work — consider starring my repositories!* ⭐  
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-## 🤝 Connect  
+## Connect  
 
 <a href="https://t.me/vylaxa">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
