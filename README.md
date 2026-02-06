@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌌 Animated Background -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="animated background"/>
+<!-- <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="animated background"/> -->
 
 #  <span style="color:#A993FF; text-shadow:0 0 18px #A993FF;">Hi, I'm Vera!</span>  
 **Full Stack Developer |  Data Enthusiast**
