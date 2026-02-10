@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=A993FF&center=true&vCenter=true&width=600&lines=Creating+elegant+and+useful+software;Exploring+data+and+building+experiences;Always+learning%2C+always+evolving)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=WeraMiyMay&label=Profile%20views&color=A993FF&style=flat-square" alt="Profile Views" />
-
 </div>
 
 <br>
