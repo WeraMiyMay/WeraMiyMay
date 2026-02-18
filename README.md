@@ -175,7 +175,7 @@ Automation system for equipment tracking with analytics and reporting.
 </p>
 
 <p align="center">
-<a href="https://github.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/tree/WeraMiyMay-patch-1/1сУчетОборудования">
+<a href="https://github.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/tree/WeraMiyMay-patch-1">
 <img src="https://img.shields.io/badge/Open_Repository-A993FF?style=for-the-badge">
 </a>
 </p>
