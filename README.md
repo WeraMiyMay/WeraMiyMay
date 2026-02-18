@@ -66,39 +66,45 @@
 
 </div>
 
-###  1. * **
+### 1. **Ecologica — Ecology Learning Game**
 <div align="center">
-  
-<img src="https://picsum.photos/600/250?random=1" width="75%" alt="project preview"/>
 
-[🔗 Repository](https://github.com/) • PHP • Laravel • JS
-  
-Простой, но гибкий таск‑менеджер с тегами, дедлайнами и фильтрами.  
+<img src="https://raw.githubusercontent.com/WeraMiyMay/Ecology-Game/main/ec.png" width="75%" alt="project preview"/>
+
+[🔗 Repository](https://github.com/WeraMiyMay/Ecology-Game) • PHP • JS • Tailwind • MySQL
+
+An engaging educational web game that teaches environmental awareness through interactive challenges.
+</div>
+
+---
+### 2. **ntp-Append-Only-Log — Native PHP Encryption Tool**
+<div align="center">
+
+<img src="https://img.icons8.com/ios-filled/150/A993FF/lock--v1.png" width="120" alt="encryption icon"/>
+
+[🔗 Repository](https://github.com/WeraMiyMay/ntp-Append-Only-Log.git) • PHP • CLI • Encryption
+
+A lightweight native PHP tool for logging, encrypting, and securing sensitive data.  
+Designed for simplicity, portability, and high performance without external dependencies.
+</div>
+
+
+### 3. **Equipment Accounting System — 1C:Enterprise**
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/WeraMiyMay-patch-1/1сУчетОборудования/eq.png" width="75%" alt="preview"/>
+
+[🔗 Repository (Branch: WeraMiyMay-patch-1)](https://github.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/tree/WeraMiyMay-patch-1/1сУчетОборудования)  
+• 1C:Enterprise • Registers • Reports
+
+A training 1C configuration for automating equipment tracking in an organization.  
+Includes registration, transfer, write‑off, supplier management, accumulation registers,  
+and analytical reports for monitoring equipment status.
 </div>
 
 ---
 
-###  2. ** **
-<div align="center">
 
-<img src="https://picsum.photos/600/250?random=2" width="75%" alt="project preview"/>
-
-[🔗 Repository](https://github.com/) • PHP • Vanilla JS
-
-Галерея с drag‑and‑drop загрузкой, превью и автоматической оптимизацией.
-</div>
-
----
-
-###  3. ** **
-<div align="center">
-
-<img src="https://picsum.photos/600/250?random=3" width="75%" alt="project preview"/>
-
-[🔗 Repository](https://github.com/) • Laravel • Charts.js • APIs
-  
-Мини‑панель статистики с графиками и реальным API.
-</div>
 
 <br>
 
