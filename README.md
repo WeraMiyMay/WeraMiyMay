@@ -35,7 +35,9 @@
 
 <td align="center" width="33%">
 <h4>Desktop</h4>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/1C-Enterprise-blue?style=for-the-badge"/>
+
 </td>
 
 <td align="center" width="33%">
@@ -62,58 +64,131 @@
 
 <div align="center">
 
-# Featured Projects
+# ✨ Featured Projects ✨
 
 </div>
-
-### 1. **Ecologica — Ecology Learning Game**
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/WeraMiyMay/Ecology-Game/main/ec.png" width="75%" alt="project preview"/>
-
-[🔗 Repository](https://github.com/WeraMiyMay/Ecology-Game) • PHP • JS • Tailwind • MySQL
-
-An engaging educational web game that teaches environmental awareness through interactive challenges.
-</div>
-
----
-### 2. **ntp-Append-Only-Log — Native PHP Encryption Tool**
-<div align="center">
-
-<img src="https://img.icons8.com/ios-filled/150/A993FF/lock--v1.png" width="120" alt="encryption icon"/>
-
-[🔗 Repository](https://github.com/WeraMiyMay/ntp-Append-Only-Log.git) • PHP • CLI • Encryption
-
-A lightweight native PHP tool for logging, encrypting, and securing sensitive data.  
-Designed for simplicity, portability, and high performance without external dependencies.
-</div>
-
-
-### 3. **Equipment Accounting System — 1C:Enterprise**
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/WeraMiyMay-patch-1/1сУчетОборудования/eq.png" width="75%" alt="preview"/>
-
-[🔗 Repository (Branch: WeraMiyMay-patch-1)](https://github.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/tree/WeraMiyMay-patch-1/1сУчетОборудования)  
-• 1C:Enterprise • Registers • Reports
-
-A training 1C configuration for automating equipment tracking in an organization.  
-Includes registration, transfer, write‑off, supplier management, accumulation registers,  
-and analytical reports for monitoring equipment status.
-</div>
-
----
-
-
 
 <br>
 
 <div align="center">
 
-## Achievements  
-<img src="https://github-profile-trophy.vercel.app/?username=WeraMiyMay&theme=onestar&no-frame=true&column=6&margin-w=15"/>
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div style="
+background: linear-gradient(145deg,#141420,#1c1c2e);
+border-radius: 18px;
+padding: 20px;
+box-shadow: 0 0 25px rgba(169,147,255,0.35);
+border: 1px solid rgba(169,147,255,0.3);
+">
+
+<h3 align="center" style="color:#A993FF;"> Ecologica — Ecology Learning Game</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/WeraMiyMay/Ecology-Game/main/ec.png" width="95%" style="border-radius:12px; box-shadow:0 0 20px rgba(169,147,255,0.5);">
+</p>
+
+<p align="center">
+<b>PHP • JavaScript • Tailwind • MySQL</b>
+</p>
+
+<p align="center">
+Interactive educational web-game that teaches environmental awareness through challenges.
+</p>
+
+<p align="center">
+<a href="https://github.com/WeraMiyMay/Ecology-Game">
+<img src="https://img.shields.io/badge/Open_Repository-A993FF?style=for-the-badge">
+</a>
+</p>
 
 </div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div style="
+background: linear-gradient(145deg,#141420,#1c1c2e);
+border-radius: 18px;
+padding: 20px;
+box-shadow: 0 0 25px rgba(169,147,255,0.35);
+border: 1px solid rgba(169,147,255,0.3);
+">
+
+<h3 align="center" style="color:#A993FF;"> ntp-Append-Only-Log</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/ios-filled/150/A993FF/lock--v1.png" width="120">
+</p>
+
+<p align="center">
+<b>PHP • CLI • Encryption</b>
+</p>
+
+<p align="center">
+Native PHP encryption and secure logging tool with high performance and zero dependencies.
+</p>
+
+<p align="center">
+<a href="https://github.com/WeraMiyMay/ntp-Append-Only-Log.git">
+<img src="https://img.shields.io/badge/Open_Repository-A993FF?style=for-the-badge">
+</a>
+</p>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="70%">
+<tr>
+<td>
+
+<div style="
+background: linear-gradient(145deg,#141420,#1c1c2e);
+border-radius: 18px;
+padding: 20px;
+box-shadow: 0 0 25px rgba(169,147,255,0.35);
+border: 1px solid rgba(169,147,255,0.3);
+">
+
+<h3 align="center" style="color:#A993FF;"> Equipment Accounting System</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/WeraMiyMay-patch-1/1сУчетОборудования/eq.png" width="90%" style="border-radius:12px; box-shadow:0 0 20px rgba(169,147,255,0.5);">
+</p>
+
+<p align="center">
+<b>1C:Enterprise • Registers • Reports</b>
+</p>
+
+<p align="center">
+Automation system for equipment tracking with analytics and reporting.
+</p>
+
+<p align="center">
+<a href="https://github.com/WeraMiyMay/1C-Accounting-For-The-Organization-Equipment/tree/WeraMiyMay-patch-1/1сУчетОборудования">
+<img src="https://img.shields.io/badge/Open_Repository-A993FF?style=for-the-badge">
+</a>
+</p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 <br>
 
