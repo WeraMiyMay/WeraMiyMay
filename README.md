@@ -64,7 +64,7 @@
 
 <div align="center">
 
-# ✨ Featured Projects ✨
+#  Featured Projects 
 
 </div>
 
