@@ -12,15 +12,6 @@
 
 <div align="center">
 
-## About Me  
-
-<div style="max-width: 600px; margin: auto; font-size: 16px; line-height: 1.6; text-align: justify;">
-
- I build **clean, efficient apps** that look great and work fast.  
- Passionate about **creative coding** and meaningful design.  
- Always exploring new ideas and improving my craft.
-
-</div>
 
 </div>
 
@@ -219,11 +210,6 @@ Native PHP encryption and secure logging tool with high performance and zero dep
 <br>
 
 <div align="center">
-
-## Final Touch  
-
-✨ “Code is poetry in motion.” ✨  
-⭐ If you enjoy my work — consider starring my repositories! ⭐  
 
 
 <br><br>
